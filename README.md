@@ -58,11 +58,11 @@ SENDGRID_API_KEY="YOUR_SENDGRID_API_KEY_HERE"
 
 Usage
 
-Run the backup script:
-    bash backup.sh
+    Run the backup script:
+        bash backup.sh
 
-Check logs:
-    cat logs/backup.log
+    Check logs:
+        cat logs/backup.log
 
 All backups are saved in the backups/ folder with timestamped directories.
 
@@ -71,11 +71,12 @@ Dependencies
    - Bash shell
    - curl (for SendGrid API)
    - SendGrid account and verified sender email
-
+```
 Example Output
 
 [2025-08-21 19:34:34] Backup success: /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/testdata
 [2025-08-21 19:34:34] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_19-34-34
+```
 
 Skills Demonstrated
    - Linux Bash scripting and automation
