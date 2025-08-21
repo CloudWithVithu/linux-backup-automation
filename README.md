@@ -87,9 +87,10 @@ Skills Demonstrated
    - Cross-platform scripting (Linux/WSL)
 
 ScreenShots:
-    !(screenshots/Screenshot6.png)
-    !(screenshots/Screenshot7.png)
-    !(screenshots/Screenshot8.png)
-    !(screenshots/Screenshot9.png)
+    ![](screenshots/Screenshot6.png)
+    ![](screenshots/Screenshot7.png)
+    ![](screenshots/Screenshot8.png)
+    ![](screenshots/Screenshot9.png)
+    
 Author
     Vithushan Visuvalingam
