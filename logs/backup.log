@@ -1,0 +1,24 @@
+[Mon Aug 18 20:50:39 +0530 2025] ERROR: Backup failed for /etc
+[Mon Aug 18 20:50:39 +0530 2025] WARNING: Directory /home/user/Documents not found.
+[Mon Aug 18 20:50:39 +0530 2025] Backup completed to /mnt/backups/backup_2025-08-18_20-50-39
+[Wed Aug 20 04:37:44 +0530 2025] ERROR: Backup failed for /etc
+[Wed Aug 20 04:37:44 +0530 2025] WARNING: Directory /home/user/Documents not found.
+[Wed Aug 20 04:37:44 +0530 2025] Backup completed to /mnt/backups/backup_2025-08-20_04-37-44
+[Wed Aug 20 04:40:29 +0530 2025] WARNING: Low disk space (1%) in backup destination.
+[Thu Aug 21 18:58:20 +0530 2025] WARNING: Low disk space (1%) in backup destination.
+[Thu Aug 21 19:05:26 +0530 2025] WARNING: Low disk space (1%) in backup destination.
+[Thu Aug 21 19:08:44 +0530 2025] WARNING: Low disk space (1%) in backup destination.
+[Thu Aug 21 19:21:11 +0530 2025] WARNING: Directory /home/stark/Documents not found.
+[Thu Aug 21 19:21:11 +0530 2025] WARNING: Directory /home/stark/Pictures not found.
+[Thu Aug 21 19:21:11 +0530 2025] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_19-21-11
+[Thu Aug 21 19:28:16 +0530 2025] WARNING: Directory /home/stark/Documents not found.
+[Thu Aug 21 19:28:16 +0530 2025] WARNING: Directory /home/stark/Pictures not found.
+[Thu Aug 21 19:28:16 +0530 2025] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_19-28-16
+[Thu Aug 21 19:33:05 +0530 2025] WARNING: Directory /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/testdata not found.
+[Thu Aug 21 19:33:05 +0530 2025] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_19-33-05
+[Thu Aug 21 19:34:34 +0530 2025] Backup success: /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/testdata
+[Thu Aug 21 19:34:34 +0530 2025] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_19-34-34
+[Thu Aug 21 20:57:18 +0530 2025] Backup success: /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/testdata
+[Thu Aug 21 20:57:18 +0530 2025] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_20-57-18
+[Thu Aug 21 20:59:51 +0530 2025] Backup success: /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/testdata
+[Thu Aug 21 20:59:51 +0530 2025] Backup completed to /mnt/g/Vithushan/MyAzureProjects/linux-backup-automation/backups/backup_2025-08-21_20-59-51
